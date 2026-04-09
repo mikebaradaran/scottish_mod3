@@ -1,0 +1,4 @@
+To start the course I usually discuss Java Design Patterns and walk them through one of the three examples probably Singleton - Just so that they know what a Java Design Pattern is. Their are three full examples to follow in the handout and solutions on Git Hub. We can only really provide an hours overview to help get them started on Patterns - They are expected to do their own research.
+
+I then cover the slides and help them with the associated Labs.
+We usually complete the current day 1 slides and get well into the day 2 slides by the end of day 1. This means that we have time to run through the old Jira slides and create scrum tasks/User stories with the excel documents and then log into Jira and use it to create some epics a backlog etc...
