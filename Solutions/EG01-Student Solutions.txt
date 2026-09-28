@@ -1,0 +1,82 @@
+Joshua
+6 Functional Requirements
+1. Users can place an order for delivery
+2. Users can browse nearby restaurants,
+3. Users can view menus
+4. Customers can track their order status in real time
+5. Customers can estimate delivery times
+6. Customers can rate their experience after delivery
+
+3 Non functional requirements
+7. System must handle customers, delivery drivers and restaurants simultaneously
+8. System monitoring must be available at all times
+9. System review and activity must be available at all times
+
+2 Poorly written requirements
+10. Restaurants handles incoming orders efficiently
+11. Delivery drivers update delivery status throughout the process
+
+Improvements
+Functional Requirement Improvement
+12. Restaurants get incoming orders updates within 2 seconds
+
+Non Functional Requirement Improvement
+13. Delivery drivers can update delivery status at order received,
+order in transit and order delivered
+
+========================================================================================================
+Steven
+6 functional requirements - the restaurant can decide whether to
+accept or reject it
+a delivery driver can be assigned to an order
+a customer can track a delivery status
+a customer can review their experience
+the restaurant can edit their menus
+the restaurant can update item availability
+
+3 non-functional requirements
+- the restaurant updates should be viewable by the customer within 5 seconds
+- the customer should be able to use the app on any android device
+above android 10
+- the customer should be able to read the app in English or French 2
+improvements to the app
+- the customer should be able to contact the driver
+- the customer should be able to rate individual items of food
+=======================================================================
+Jo
+Functional:
+
+Customer can browse restaurants and menus
+Customer places order
+Customer can view order status
+Customer can view delivery times
+Customers can rate their experience
+Restaurants can accept or reject orders
+Restaurants can mark when food is ready
+Restaurants can set whether they are open or closed
+Restaurants can set and modify menus and item availability
+Delivery drivers can set their schedule
+Delivery drivers can accept or decline delivery requests
+Delivery drivers can access restaurant and customer locations and get directions
+Delivery drivers can update delivery status
+
+Non-functional
+
+Handle incoming orders efficiently
+System must handle multiple restaurants
+System must handle multiple drivers
+System must handle multiple customers
+System must be a single platform
+
+Re-write badly written requirements
+
+Handle incoming orders efficiently = system should alert restaurant
+with a clear auditory or visual cue of the arrival of a new order and
+provide key information in a single view to allow a quick accept or
+decline decision. This should be available within 10 seconds of order
+placement. The system should then provide a screen or printout for the
+kitchen
+
+Rate their experience after delivery = request stars out of five for
+quality, price and delivery and a space for a review
+
